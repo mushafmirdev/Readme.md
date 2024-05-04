@@ -6,7 +6,7 @@
 - 🚀 #CodeArt #FrontendMagic #BackendMagic
 - 🚀 I'm a C++ and Python enthusiast.
 - 🌱 Currently exploring the world of Artificial Intelligence with a focus on Deep Learning & NLP.
-- 💬 Feel free to reach out to me through my email: inayatrahim006@gmail.com.
+- 💬 Feel free to reach out to me through my email: mushafalimeer13579@gmail.com.
 - ⚡ Fun fact: I love solving complex coding challenges and puzzles.
 - 📐 Strong understanding of web accessibility and best coding practices.
 - 🌐 Passionate about staying up-to-date with the latest AI/ML technologies.
