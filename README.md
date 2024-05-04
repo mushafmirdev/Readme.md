@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Inayat Rahim</h1>
-<h3 align="center">👋 Hey there! I'm Inayat Rahim, a passionate Ai/Ml developer based in Islamabad, Pakistan.</h3>
+<h1 align="center">Hi 👋, I'm Mushaf Ali</h1>
+<h3 align="center">👋 Hey there! I'm Mushaf Ali, a passionate Ai/Ml developer based in Rawalpindi, Pakistan.</h3>
 👩‍💻 With a love for problem-solving and a keen eye for detail, I specialize in crafting robust backend solutions to drive seamless and efficient application functionality.
 🚀 #CodeArt #FrontendMagic
 🚀 #CodeArt #BackendMagic
@@ -28,8 +28,7 @@ Here are some of the technologies I work with:
 ## 🤝 Connect with me:
 Feel free to explore and contribute to these projects!
 ## 🌐 Social Media
-<a target="blank" href="https://www.facebook.com/profile.php?id=100076805183920" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.linkedin.com/in/inayat-rahim-b0655b29b/" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>  &nbsp; <a target="blank" href="https://stackoverflow.com/users/23348995/inayat-rahim" ><img style="height: 3rem; width: 3rem;" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>
+<a target="blank" href="https://www.facebook.com/mirgraphics1" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.linkedin.com/in/mushafmir/" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>  &nbsp; 
 ## ❤️ Support
 If you find my work interesting or have any questions, feel free to email me.
 ### Thanks for visiting! 😊
