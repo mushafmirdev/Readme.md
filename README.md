@@ -28,7 +28,8 @@ Here are some of the technologies I work with:
 ## 🤝 Connect with me:
 Feel free to explore and contribute to these projects!
 ## 🌐 Social Media
-<a target="blank" href="https://www.facebook.com/mirgraphics1" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.linkedin.com/in/mushafmir/" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>  &nbsp; 
+<a target="blank" href="https://www.facebook.com/mirgraphics1" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.linkedin.com/in/mushafmir/" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>  &nbsp; <a target="blank" href="https://stackoverflow.com/users/23348995/inayat-rahim" ><img style="height: 3rem; width: 3rem;" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>
 ## ❤️ Support
 If you find my work interesting or have any questions, feel free to email me.
 ### Thanks for visiting! 😊
