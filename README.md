@@ -27,7 +27,7 @@
 - 🌐 **Social Media:**
   - [Facebook](https://www.facebook.com/mirgraphics1)
   - [LinkedIn](https://www.linkedin.com/in/mushafmir/)
-  - [Stack Overflow](https://stackoverflow.com/users/23348995/inayat-rahim)
+
 
 ## ❤️ Support
 - If you find my work interesting or have any questions, feel free to email me.
