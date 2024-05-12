@@ -27,7 +27,7 @@
 - 🌐 **Social Media:**
   - [Facebook](https://www.facebook.com/mirgraphics1)
   - [LinkedIn](https://www.linkedin.com/in/mushafmir/)
-
+  - [Linktree](https://linktr.ee/mushafmir)
 
 ## ❤️ Support
 - If you find my work interesting or have any questions, feel free to email me.
